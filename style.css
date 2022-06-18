@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color:deeppink;
+  
+}
+
+main{
+  width: 50%;
+  margin: auto;
+  display:flex;
+  justify: content center;
+  align: items center;
+  height:100vh;
+}
+
+.top-content, h1-top{
+  color: black;
+  PADDING:2em;
+}
+
+.top-content, p-top{
+  font-size:15px;
+  padding-bottom:10px;}
+
+.top-right-content, h5{
+  display:flex;
+  
+}
